@@ -40,3 +40,5 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=registry,ref=ghcr.io/mokeyjay/pixiv-widget-image:main
+          cache-to: type=inline

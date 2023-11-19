@@ -1,0 +1,1 @@
+[Pixiv 每日排行榜小挂件](https://github.com/mokeyjay/Pixiv-daily-ranking-widget) 依赖的运行环境镜像，旨在避免重复编译环境，加快镜像构建
